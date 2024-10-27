@@ -130,15 +130,13 @@ main {
 }
 
 /* De afspeeltijd en span onderin het eventcard krijgen */
-.event-1 .tekst{ margin-bottom: 170px;}
-.event-2 .tekst{ margin-bottom: 15px;}
-.event-3 .tekst{ margin-bottom: 82px;}
-.event-4 .tekst{ margin-bottom: 85px;}
+.event-1 .tekst{ margin-bottom: 150px;}
+.event-3 .tekst{ margin-bottom: 65px;}
+.event-4 .tekst{ margin-bottom: 70px;}
 .event-5 .tekst{ margin-bottom: 25px;}
-.event-6 .tekst { margin-bottom: 15px;}
 .event-7 .tekst{ margin-bottom: 100px;}
 .event-8 .afspeeltijd{ margin-top: 40px;}
-.event-9 .tekst{ margin-bottom: 95px;}
+.event-9 .tekst{ margin-bottom: 80px;}
 
 .afspeeltijd {
     font-size: 11px;
